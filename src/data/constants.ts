@@ -1,5 +1,3 @@
-import MetaBadge from "../assets/meta.png";
-import ScrumBadge from "../assets/PSMI.png";
 
 export const Bio = {
   name: "Baljeet Singh",
@@ -271,14 +269,16 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
     school: "Bebo Technologies, Mohali, Punjab",
     date: "Jan 2016 - May 2016",
+    grade: "",
     desc: 'Training in Website Design & Development. Hands-on experience with technologies like JEE, HTML, CSS, JavaScript, jQuery, AJAX, JSON. completed by B.tech in 2016',
     degree: "Project Trainee",
   },
   {
     id: 1,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Doaba Institute of Engineering & Technology",
+    school: "Rayat & Bahra Institute of Engineering & Technology",
     date: "April 2012 - April 2016",
+    grade: "",
     desc: "I completed by B.tech in 2016",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
